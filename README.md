@@ -43,6 +43,10 @@ The program accepts options **-c** and **-t** in any order:
 
 > ./my_game -c 1234 -t 7
 
+<img width="615" alt="Screen Shot 2023-03-25 at 8 13 55 AM" src="https://user-images.githubusercontent.com/84927906/227717330-9ddfaa33-96b1-4f30-9952-cf8f9f59b3c7.png">
+
+and playing bad  
+<img width="615" alt="Screen Shot 2023-03-25 at 8 16 32 AM" src="https://user-images.githubusercontent.com/84927906/227717420-d69cd07a-8d1b-4700-b974-16e80dfe3333.png">
 
 ### The Core Team
 
