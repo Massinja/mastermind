@@ -14,9 +14,9 @@
 #define COLOR_BLUE    "\x1b[34m"
 #define COLOR_RESET   "\x1b[37m"
 
-char *check_c_opt(int argc, char *argv[], char* charSec);
+char *check_c_opt(int argc, char *argv[], char* char_sec);
 int check_t_opt(int argc, char *argv[]);
-bool my_guess_check(char *charSec, char *guess);
+bool my_guess_check(char *char_sec, char *guess);
 char *my_guess_reader(char *guess, char *my_buf);
 bool my_strcmp(char* param_1, char* param_2);
 int my_strlen(char* param_1);
@@ -25,9 +25,9 @@ bool my_strchr(char* param_1, char param_2);
 bool my_duplchr(char* param_1, char param_2);
 bool my_strint(int* param_1, int param_2);
 int *my_secretcode(int* secret_code);
-char* my_itoa(char* charSec, int *secret_code);
-bool valid_length(char *charSec);
-bool code_validator(char *charSec);
+char* my_itoa(char* char_sec, int *secret_code);
+bool valid_length(char *char_sec);
+bool code_validator(char *char_sec);
 char *my_emptystr(char* param);
 
 #endif
